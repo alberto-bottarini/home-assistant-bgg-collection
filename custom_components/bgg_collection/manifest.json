@@ -1,0 +1,14 @@
+{
+  "domain": "bgg_collection",
+  "name": "Home Assistant BGG Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/alberto-bottarini/ha-bgg",
+  "requirements": [
+    "aiohttp"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@alberto-bottarini"
+  ],
+  "config_flow": true
+}

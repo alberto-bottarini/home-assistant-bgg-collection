@@ -1,0 +1,10 @@
+{
+  "name": "BGG Collection",
+  "content_in_root": false,
+  "domains": [
+    "bgg_collection"
+  ],
+  "country": "global",
+  "homeassistant": "2023.1.0",
+  "render_readme": true
+}
