@@ -1,6 +1,6 @@
 {
   "domain": "bgg_collection",
-  "name": "Home Assistant BGG Integration",
+  "name": "Home Assistant BGG Collection",
   "version": "1.0.0",
   "documentation": "https://github.com/alberto-bottarini/ha-bgg",
   "requirements": [
